@@ -23,10 +23,13 @@ def solution(A):
             
     return result+1
 
-# Example Test
+# Example Tests
 A = [1,3,6,4,1,2]
-print(solution(A))
+print("Input: \n [1,3,6,4,1,2]")
+print("Output: \n",solution(A))
 A = [-1,-3]
-print(solution(A))
+print("Input: \n [-1,-3]")
+print("Output: \n",solution(A))
 A = [1,2,3]
-print(solution(A))
+print("Input: \n [1,2,3]")
+print("Output: \n",solution(A))

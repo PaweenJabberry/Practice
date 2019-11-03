@@ -1,3 +1,17 @@
+# Longest Word
+# 
+# Have the function LongestWord(sen) take the sen parameter being passed
+# and return the largest word in the string. If there are two or more words that
+# are the same length, return the first word from the string with that length.
+# Ignore punctuation and assume sen will not be empty.
+# 
+# Examples
+# Input: "fun&!! time"
+# Output: time
+# 
+# Input: "I love dogs"
+# Output: love
+# 
 import re
 def LongestWord(sen):
   # Search only characters
@@ -13,6 +27,8 @@ def LongestWord(sen):
 
 # Example Test
 A = "I love dogs"
-print(LongestWord(A))
+print("Input: \n I love dogs")
+print("Output: \n",LongestWord(A))
 A = "fun&!!!lil time"
-print(LongestWord(A))
+print("Input: \n fun&!!!lil time")
+print("Output: \n",LongestWord(A))
