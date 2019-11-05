@@ -10,20 +10,17 @@
 //
 import java.util.*;
 
-class Main {
+public class FirstFactorial {
     public static int FirstFactorial(int num) {
 
         int i = 0;
-        int temp = 0;
+        int newNum = 1;
 
-        temp = num;
-        num = 1;
-
-        for(i=1;i<=temp;i++) {
-            num *= i;
+        for(i=1;i<=num;i++) {
+            newNum *= i;
         }
 
-        return num;
+        return newNum;
     }
 
     public static void main (String[] args) {

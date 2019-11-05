@@ -32,7 +32,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.LetterCapitalize">
+    <configuration name="FirstFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstFactorial" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FirstReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FirstReverse" />
       <module name="Java" />
@@ -40,15 +47,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
-      <module name="Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HiWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HiWorld" />
+    <configuration name="LetterCapitalize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LetterCapitalize" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,12 +61,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SimpleAdding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleAdding" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LetterCapitalize" />
+        <item itemvalue="Application.SimpleAdding" />
+        <item itemvalue="Application.FirstFactorial" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.FirstReverse" />
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.HiWorld" />
       </list>
     </recent_temporary>
   </component>
