@@ -32,7 +32,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LetterCapitalize">
+  <component name="RunManager" selected="Application.KaprekarsConstant">
     <configuration name="FirstFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FirstFactorial" />
       <module name="Java" />
@@ -40,8 +40,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FirstReverse" />
+    <configuration name="KaprekarsConstant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KaprekarsConstant" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,11 +70,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KaprekarsConstant" />
         <item itemvalue="Application.LetterCapitalize" />
         <item itemvalue="Application.SimpleAdding" />
         <item itemvalue="Application.FirstFactorial" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.FirstReverse" />
       </list>
     </recent_temporary>
   </component>
