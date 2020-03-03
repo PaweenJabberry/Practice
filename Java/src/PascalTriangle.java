@@ -1,7 +1,3 @@
-import java.lang.reflect.Array;
-import java.util.ArrayList;
-import java.util.Scanner;
-
 // Pascal Triangle
 // Given numRows, generate the first numRows of Pascal’s triangle.
 // Pascal’s triangle : To generate A[C] in row R, sum up A’[C] and A’[C-1] from previous row R - 1.
@@ -16,6 +12,9 @@ import java.util.Scanner;
 //      [1,3,3,1],
 //      [1,4,6,4,1]
 // }
+import java.util.ArrayList;
+import java.util.Scanner;
+
 public class PascalTriangle {
 
     public static void PascalTriangle(int nRow) {
