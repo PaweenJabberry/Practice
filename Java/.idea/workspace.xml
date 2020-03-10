@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -18,12 +25,20 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/สมัครงาน/Wongnai/java-homework-maki/java-homework-maki" />
+    <property name="last_opened_file_path" value="D:/Program Files/Json-lib-20120521/org.json-20120521.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ReadJsonFromUrl">
     <configuration name="DigitalRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DigitalRoot" />
       <module name="Practice" />
@@ -31,8 +46,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReadJsonFromUrl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReadJsonFromUrl" />
+      <module name="Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReadJsonFromUrl" />
         <item itemvalue="Application.DigitalRoot" />
       </list>
     </recent_temporary>
@@ -49,7 +72,14 @@
       <updated>1583481957694</updated>
       <workItem from="1583481970896" duration="134000" />
       <workItem from="1583482564781" duration="941000" />
-      <workItem from="1583487758795" duration="1359000" />
+      <workItem from="1583487758795" duration="1592000" />
+      <workItem from="1583491949061" duration="729000" />
+      <workItem from="1583731685129" duration="478000" />
+      <workItem from="1583732814321" duration="8003000" />
+      <workItem from="1583746960158" duration="377000" />
+      <workItem from="1583747525703" duration="1432000" />
+      <workItem from="1583817668851" duration="1440000" />
+      <workItem from="1583820062167" duration="1298000" />
     </task>
     <servers />
   </component>
@@ -57,29 +87,45 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1583482111543">
+    <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583738008571">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583482111543" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1583491183834">
+    <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1583738008571" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1583818270008">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583491183834" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1583491183834">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583818270008" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1583748959751">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583491183834" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1583491183834">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583748959751" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1583748959751">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583491183834" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1583491183834">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583748959751" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1583748959751">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583491183834" />
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1583481969843">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583748959751" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1583748959751">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583481969843" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583748959751" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1583747335775">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583747335775" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1583820390505">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583820390505" />
+    <state x="526" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583744415757">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1583744415757" />
+    <state x="209" y="33" key="new project wizard" timestamp="1583818410972">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1583818410972" />
   </component>
 </project>
