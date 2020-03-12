@@ -38,9 +38,16 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.ReadJsonFromUrl">
+  <component name="RunManager" selected="Application.InvertedIndex">
     <configuration name="DigitalRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DigitalRoot" />
+      <module name="Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvertedIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InvertedIndex" />
       <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -55,6 +62,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InvertedIndex" />
         <item itemvalue="Application.ReadJsonFromUrl" />
         <item itemvalue="Application.DigitalRoot" />
       </list>
@@ -79,7 +87,8 @@
       <workItem from="1583746960158" duration="377000" />
       <workItem from="1583747525703" duration="1432000" />
       <workItem from="1583817668851" duration="1440000" />
-      <workItem from="1583820062167" duration="1298000" />
+      <workItem from="1583820062167" duration="2086000" />
+      <workItem from="1583998351883" duration="7989000" />
     </task>
     <servers />
   </component>
@@ -95,22 +104,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583818270008" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1583748959751">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1584005967822">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583748959751" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1583748959751">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584005967822" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1584005967822">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583748959751" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1583748959751">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584005967822" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1584005967822">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583748959751" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1583748959751">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584005967822" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1584005967822">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583748959751" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584005967822" />
     <state x="277" y="0" key="SettingsEditor" timestamp="1583747335775">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
