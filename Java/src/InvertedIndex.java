@@ -33,11 +33,9 @@ public class InvertedIndex {
         movies.add("A Man");
 
         for (int id = 0;id<movies.size();id++) {
-            int pos = 0;
             String currentLine = movies.get(id);
             for (String wordSplit : currentLine.split(" ")) {
                 String word = wordSplit.toLowerCase();
-                pos++;
                 if (stopWords.contains(word)) {
                     continue;
                 }
