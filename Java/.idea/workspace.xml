@@ -38,14 +38,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.TwoZeroTwoFourGame">
-    <configuration name="DigitalRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DigitalRoot" />
-      <module name="Practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.VcPairs">
     <configuration name="InvertedIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InvertedIndex" />
       <module name="Practice" />
@@ -67,6 +60,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VcPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VcPairs" />
+      <module name="Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Zoos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Zoos" />
       <module name="Practice" />
@@ -76,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VcPairs" />
         <item itemvalue="Application.TwoZeroTwoFourGame" />
         <item itemvalue="Application.Zoos" />
         <item itemvalue="Application.InvertedIndex" />
         <item itemvalue="Application.ReadJsonFromUrl" />
-        <item itemvalue="Application.DigitalRoot" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +116,8 @@
       <workItem from="1586501536731" duration="7688000" />
       <workItem from="1586928854855" duration="11234000" />
       <workItem from="1587019609819" duration="4205000" />
-      <workItem from="1587111578421" duration="4764000" />
+      <workItem from="1587111578421" duration="5197000" />
+      <workItem from="1587971338516" duration="7357000" />
     </task>
     <servers />
   </component>
@@ -132,34 +133,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584597363209" />
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1587116714476">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1587979530485">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585737641456" />
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587116714476" />
-    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1587116714475">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587979530485" />
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587117596144" />
+    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1587979530484">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585737641454" />
-    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587116714475" />
-    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1587116714475">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587979530484" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587117596144" />
+    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1587979530484">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585737641453" />
-    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587116714475" />
-    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1587116714476">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587979530484" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587117596144" />
+    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1587979530484">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585737641455" />
-    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587116714476" />
+    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587979530484" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587117596144" />
     <state x="277" y="0" key="SettingsEditor" timestamp="1583747335775">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583747335775" />
-    <state x="588" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1587111639799">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1587971422991">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584023655808" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587971422991" />
     <state x="588" y="298" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587111639799" />
     <state x="526" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583744415757">
       <screen x="0" y="0" width="1536" height="824" />
@@ -169,6 +170,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1583818410972" />
+    <state x="426" y="188" key="run.anything.popup" timestamp="1587972077516">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="188" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1587972077516" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
