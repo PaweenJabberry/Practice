@@ -10,6 +10,7 @@
 //
 // Input: 140
 // Output: 9870
+
 import java.util.*;
 
 public class SimpleAdding {

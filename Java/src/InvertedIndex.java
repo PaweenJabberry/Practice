@@ -2,6 +2,7 @@
 //  Create map index for word occur by select only important word
 //  Search on the map for decreasing the length of search
 //
+
 import java.util.*;
 
 public class InvertedIndex {

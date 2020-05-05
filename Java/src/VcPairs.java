@@ -1,6 +1,3 @@
-import java.util.ArrayList;
-import java.util.Scanner;
-
 /*
 * VC Pairs
 * Max has a string S with length N.
@@ -32,6 +29,10 @@ import java.util.Scanner;
 * o
 *
 * */
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
 public class VcPairs {
 
     public static void VcPairs() {

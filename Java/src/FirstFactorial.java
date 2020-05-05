@@ -8,7 +8,8 @@
 // Input: 4
 // Output: 24
 //
-import java.util.*;
+
+import java.util.Scanner;
 
 public class FirstFactorial {
     public static int FirstFactorial(int num) {

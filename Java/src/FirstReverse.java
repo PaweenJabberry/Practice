@@ -8,6 +8,7 @@
 // Input: "coderbyte"
 // Output: etybredoc
 //
+
 import java.util.Scanner;
 
 public class FirstReverse {

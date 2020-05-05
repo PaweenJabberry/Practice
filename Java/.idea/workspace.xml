@@ -38,16 +38,28 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.VcPairs">
-    <configuration name="InvertedIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InvertedIndex" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work\Practice\Java\src\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ITSMagic">
+    <configuration name="ITSMagic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ITSMagic" />
       <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadJsonFromUrl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReadJsonFromUrl" />
+    <configuration name="PalindromicString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromicString" />
+      <module name="Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SevenSegmentDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SevenSegmentDisplay" />
       <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,20 +79,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zoos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zoos" />
-      <module name="Practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ITSMagic" />
+        <item itemvalue="Application.PalindromicString" />
+        <item itemvalue="Application.SevenSegmentDisplay" />
         <item itemvalue="Application.VcPairs" />
         <item itemvalue="Application.TwoZeroTwoFourGame" />
-        <item itemvalue="Application.Zoos" />
-        <item itemvalue="Application.InvertedIndex" />
-        <item itemvalue="Application.ReadJsonFromUrl" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +122,10 @@
       <workItem from="1586928854855" duration="11234000" />
       <workItem from="1587019609819" duration="4205000" />
       <workItem from="1587111578421" duration="5197000" />
-      <workItem from="1587971338516" duration="7357000" />
+      <workItem from="1587971338516" duration="7538000" />
+      <workItem from="1588057233195" duration="1181000" />
+      <workItem from="1588138639122" duration="7610000" />
+      <workItem from="1588664450304" duration="6625000" />
     </task>
     <servers />
   </component>
@@ -125,42 +133,50 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="544" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588666083590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="544" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1588666083590" />
     <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583738008571">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1583738008571" />
+    <state x="500" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588666387999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="500" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1588666387999" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1584597363209">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584597363209" />
-    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1587979530485">
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1588670006123">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587979530485" />
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588670006123" />
     <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587117596144" />
-    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1587979530484">
+    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1588670006123">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587979530484" />
+    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588670006123" />
     <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587117596144" />
-    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1587979530484">
+    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1588670006123">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587979530484" />
+    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588670006123" />
     <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587117596144" />
-    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1587979530484">
+    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1588670006123">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587979530484" />
+    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588670006123" />
     <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587117596144" />
     <state x="277" y="0" key="SettingsEditor" timestamp="1583747335775">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583747335775" />
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1587971422991">
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1588664550072">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587971422991" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588664550072" />
     <state x="588" y="298" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587111639799" />
     <state x="526" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583744415757">
       <screen x="0" y="0" width="1536" height="824" />
