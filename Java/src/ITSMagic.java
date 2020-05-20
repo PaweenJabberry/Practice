@@ -79,7 +79,7 @@ public class ITSMagic {
     public static List<String> ReadFile() {
         List<String> data = new ArrayList<>();
         try {
-            File myObj = new File("data/testcase2.txt");
+            File myObj = new File("data/magictestcase2.txt");
             Scanner myReader = new Scanner(myObj);
             String rawData = "";
             while (myReader.hasNextLine()) {
